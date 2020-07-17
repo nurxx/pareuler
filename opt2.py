@@ -5,7 +5,7 @@ Options:
 -p PRECISION --precision=PRECISION                  Set calculation precision
                                                     [default: 1000]
 -t TASKS --tasks=TASKS                              Set number of tasks for paralel computing
-                                                    [default: 1]
+                                                    [default: 4]
 -o FILE --output=file                               Store result in a file
                                                     [default: result.txt]
 -q --quiet                                          Hide program execution messages
