@@ -1,5 +1,5 @@
 """
-Usage: main.py [options]
+Usage: opt2.py [options]
 
 Options:
 -p PRECISION --precision=PRECISION                  Set calculation precision
