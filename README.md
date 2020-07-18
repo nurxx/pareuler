@@ -1,6 +1,12 @@
 # pareuler
 This is an university project for Distributed Software Architectures course at FMI, Sofia University.
 
+Prerequisites
+-------------------------------------------------------------
+```
+pip install -r requirements.txt
+```
+
 The problem
 -------------------------------------------------------------
 
